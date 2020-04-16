@@ -1,1 +1,0 @@
-# VESM2-lokaverkefni
