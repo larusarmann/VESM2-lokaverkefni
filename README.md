@@ -1,3 +1,3 @@
 # VESM2-lokaverkefni
-
-https://github.com/larusarmann/VESM2-lokaverkefni/wiki[Dagbók]
+[Dagbók](https://github.com/larusarmann/VESM2-lokaverkefni/wiki)
+[Tinker](https://www.tinkercad.com/things/1psHEH8I5UP)
